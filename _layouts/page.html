@@ -16,23 +16,29 @@
 
 
 <div id="main" role="main">
-  <div class="article-author-side">
-    {% include _author-bio.html %}
+  <div class="columns">
+    <div class="column is-one-quarter">
+      <div class="article-author-side">
+        {% include _author-bio.html %}
+      </div>
+    </div>
+    <div class="column is-three-quarters">
+      <article class="page">
+        <h1>{{ page.title }}</h1>
+        <div class="article-wrap">
+          <p>test3</p>
+          {{ content }}
+          {% if page.share != false %}
+            <hr />
+            {% include _social-share.html %}
+          {% endif %}
+        </div><!-- /.article-wrap -->
+        {% if site.owner.disqus-shortname and page.comments == true %}
+          <section id="disqus_thread"></section><!-- /#disqus_thread -->
+        {% endif %}
+      </article>
+    </div>  
   </div>
-  <article class="page">
-    <h1>{{ page.title }}</h1>
-    <div class="article-wrap">
-      <p>test2</p>
-      {{ content }}
-      {% if page.share != false %}
-        <hr />
-        {% include _social-share.html %}
-      {% endif %}
-    </div><!-- /.article-wrap -->
-    {% if site.owner.disqus-shortname and page.comments == true %}
-      <section id="disqus_thread"></section><!-- /#disqus_thread -->
-    {% endif %}
-  </article>
 </div><!-- /#index -->
 
 <div class="footer-wrap">
