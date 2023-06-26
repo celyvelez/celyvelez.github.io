@@ -65,7 +65,7 @@
       {% endif %}
     </div><!-- /.site-name -->
     <div class="top-navigation">
-      <nav role="navigation" id="site-nav" class="nav">
+      <nav role="navigation" id="site-nav" class="nav navbar-end">
           <ul>
             {% assign links = site.pages | where_exp: "item", "item.menuorder != nil" %}
             {% assign alllinks = links | concat: site.data.navigation | sort: 'menuorder' %}
