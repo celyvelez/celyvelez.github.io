@@ -17,29 +17,31 @@
 
 <div id="main" role="main">
   <div class="container">
-    <div class="columns content">
-      <div class="column is-one-quarter">
-        <div class="article-author-side is-centered">
-          {% include _author-bio.html %}
+    <sectio class="section">
+      <div class="columns content">
+        <div class="column is-one-quarter">
+          <div class="article-author-side is-centered">
+            {% include _author-bio.html %}
+          </div>
         </div>
-      </div>
-      <div class="column is-three-quarters">
-        <article class="page">
-          <h1>{{ page.title }}</h1>
-          <div class="article-wrap">
-            <p>test7</p>
-            {{ content }}
-            {% if page.share != false %}
-              <hr />
-              {% include _social-share.html %}
+        <div class="column is-three-quarters">
+          <article class="page">
+            <h1>{{ page.title }}</h1>
+            <div class="article-wrap">
+              <p>test8</p>
+              {{ content }}
+              {% if page.share != false %}
+                <hr />
+                {% include _social-share.html %}
+              {% endif %}
+            </div><!-- /.article-wrap -->
+            {% if site.owner.disqus-shortname and page.comments == true %}
+              <section id="disqus_thread"></section><!-- /#disqus_thread -->
             {% endif %}
-          </div><!-- /.article-wrap -->
-          {% if site.owner.disqus-shortname and page.comments == true %}
-            <section id="disqus_thread"></section><!-- /#disqus_thread -->
-          {% endif %}
-        </article>
-      </div>  
-    </div>
+          </article>
+        </div>  
+      </div>
+    </section>
   </div>
 </div><!-- /#index -->
 
