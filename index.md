@@ -14,9 +14,9 @@ menuorder: 1
 
 <p>
   <ul>
-    <li>I'm attending Lede 2023 at Columbia University</li>
-    <li>I'm fact-checking a book</li>
-    <li>I'm searching for my <a href="https://www.mathgenealogy.org/index.php" target="_blank" style="color:#75D5D5">Mathematics Genealogy</a></li>
+    <li>Attending Lede 2023 at Columbia University</li>
+    <li>Fact-checking a book</li>
+    <li>Searching for my <a href="https://www.mathgenealogy.org/index.php" target="_blank" style="color:#75D5D5">Mathematics Genealogy</a></li>
     <!-- <li>Lorem ipsum dolor sit amet</li> -->
   </ul>
 </p>
