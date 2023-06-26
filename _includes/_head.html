@@ -56,7 +56,7 @@
 
 <section class="hero is-primary">
   <!-- Hero head: will stick at the top -->
-  <div class="navigation-wrapper">
+  <!-- <div class="navigation-wrapper">
     <div class="site-name">
       {% if site.logo %}
       <a href="{{ site.github.url }}/"><img src="{{ site.github.url }}/images/{{ site.logo }} "></a>
@@ -64,9 +64,9 @@
       <a href="{{ site.github.url }}/">{{ site.title }}</a>
       {% endif %}
     </div><!-- /.site-name -->
-    <div class="top-navigation navbar-end">
-      <nav role="navigation" id="site-nav" class="nav">
-          <ul>
+    <!-- <div class="top-navigation"> -->
+      <!-- <nav role="navigation" id="site-nav" class="nav"> -->
+          <!-- <ul>
             {% assign links = site.pages | where_exp: "item", "item.menuorder != nil" %}
             {% assign alllinks = links | concat: site.data.navigation | sort: 'menuorder' %}
               {% for link in alllinks %}
@@ -79,15 +79,17 @@
               {% endif %}
           </a></li>
           {% endfor %}
-          </ul>
-      </nav>
-    </div><!-- /.top-navigation -->
-  </div><!-- /.navigation-wrapper -->
+          </ul> -->
+      <!-- </nav> -->
+    <!-- </div> -->
+    <!-- /.top-navigation -->
+  <!-- </div> -->
+  <!-- /.navigation-wrapper -->
   
   
-  <!-- <section class="hero is-success is-fullheight"> -->
+  <!-- <section class="hero is-primary"> -->
     <!-- Hero head: will stick at the top -->
-    <!-- <div class="hero-head">
+    <!-- <div class="hero-head"> -->
       <header class="navbar">
         <div class="container">
           <div class="navbar-brand">
@@ -123,35 +125,9 @@
           </div>
         </div>
       </header>
-    </div> -->
+    <!-- </div> -->
   
-    <!-- Hero content: will be in the middle -->
-    <!-- <div class="hero-body">
-      <div class="container has-text-centered">
-        <p class="title">
-          Title
-        </p>
-        <p class="subtitle">
-          Subtitle
-        </p>
-      </div>
-    </div> -->
-  
-    <!-- Hero footer: will stick at the bottom -->
-    <!-- <div class="hero-foot">
-      <nav class="tabs is-boxed is-fullwidth">
-        <div class="container">
-          <ul>
-            <li class="is-active"><a>Overview</a></li>
-            <li><a>Modifiers</a></li>
-            <li><a>Grid</a></li>
-            <li><a>Elements</a></li>
-            <li><a>Components</a></li>
-            <li><a>Layout</a></li>
-          </ul>
-        </div>
-      </nav>
-    </div>
-  </section>  -->
+
+  <!-- </section>   -->
 
 </section>
