@@ -63,11 +63,5 @@ $(document).ready(function() {
     // Class that is added to body when popup is open.
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
-  }),
-  $(".navbar-item").click(function() {
-
-    // Toggle the "is-active" class on both the "navbar-burger" and the "navbar-menu"
-    $navbar-item-hover-color: {background-color: 	hsl(180°, 51%, 62%)};
-    // $(".navbar-burger").toggleClass("is-active");
-  };
+  });
 });
