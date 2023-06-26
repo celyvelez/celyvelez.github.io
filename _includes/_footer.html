@@ -1,3 +1,6 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+
 {% if site.owner.google.ad-client and site.owner.google.ad-slot %}
 <div class="google-ads">
   <!-- 320 x 50 ad -->
@@ -18,6 +21,17 @@
 <span><a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://ncsu-libraries.github.io/jekyll-academic/" rel="nofollow">Jekyll Academic</a> theme.
 <br /></span>
 {% else  %}
-<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://ncsu-libraries.github.io/jekyll-academic/" rel="nofollow">Jekyll Academic</a> theme.
+<div class="social">
+  <a href="https://twitter.com/celyvelez" target="_blank">
+      <i class="icon ion-social-twitter">
+      </i>
+  </a>
+  <a href="https://github.com/celyvelez" target="_blank">
+      <i class="icon ion-social-github">
+      </i>
+  </a>
+</div>
+<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.
 <br /></span>
 {% endif %}
+<!-- Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://ncsu-libraries.github.io/jekyll-academic/" rel="nofollow">Jekyll Academic</a> theme. -->
