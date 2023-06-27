@@ -6,7 +6,7 @@ menuorder: 2
 ---
 <h1 style="color:#134D4D;">Projects</h1>
 
-<p>This is the home of all the projects from the Lede 2023 program.</p>
+
 
 <div class="columns is-multiline content">
     <div class="column is-one-third">
@@ -15,7 +15,7 @@ menuorder: 2
           src="https://scontent.fbog4-1.fna.fbcdn.net/v/t39.30808-6/236759487_1984449758373382_8150283213178715282_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=zlTST_rsL_MAX_CHSqM&_nc_ht=scontent.fbog4-1.fna&oh=00_AfB5iFKYOsXEIypxgFNojmtYRhGpXCvaZn_Wz0V_sa1x7A&oe=649D0270"
           alt="Placeholder image">
       </figure>
-      <div class="tags">
+      <div class="tags is-centered">
         <span class="tag is-primary is-light">Dataset</span>
         <span class="tag is-primary is-light">Maths</span>
         <span class="tag is-primary is-light">Gender</span>
