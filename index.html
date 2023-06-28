@@ -7,32 +7,56 @@
     <title>Sara Cely Vélez</title>
     <link rel="stylesheet" href="css/mystyles.css">
     <style>
-        .hero.is-primary {
+        .hero {
+            background-color: hsl(180, 69%, 40%);
+            color: white;
+        }
+        .hero .navbar-item:hover {
+            background-color: #134D4D;
+            color: white;
+        }
+        .hero h1 {
+            color: white;
+        }
+        .navbar {
             background-color: hsl(180, 69%, 40%);
         }
-        .container a:hover {
+        .navbar-item a {
+            color: white;
+        }
+        a {
+            color:#75D5D5;
+        }
+        a:hover {
             color: #134D4D;
         }
-        .container h1 {
+        h1 {
             color: #134D4D;
         }
         .container h2 {
             color:#269999;
         }
-        .container a {
+        .button {
+            border-color:#75D5D5;
             color:#75D5D5;
         }
-        /* .container .navbar-item:hover {
-            color: #134D4D;
-        } */
+        .button:hover {
+            border-color:#75D5D5;
+            background-color:#75D5D5;
+            color: white
+        }
+        .tags .tag {
+            background-color: #E2F6F6;
+            color:#269999;
+        }
 
     </style>
   </head>
   <body>
-    <section class="hero is-primary is-small">
+    <section class="hero is-small">
         <!-- Hero head: will stick at the top -->
         <div class="hero-head">
-            <nav class="navbar is-primary">
+            <nav class="navbar">
                 <div class="container">
                     <div class="navbar-brand">
                         <div class="navbar-item">
@@ -46,15 +70,21 @@
                     </div>
                     <div id="navbarMenuHeroA" class="navbar-menu">
                         <div class="navbar-end">
-                            <a class="navbar-item" href="https://celyvelez.github.io/">
-                                Homee
-                            </a>
-                            <a class="navbar-item" href="google.com">
-                            About Me
-                            </a>
-                            <a class="navbar-item" href="https://celyvelez.github.io/lede">
-                            Lede 2023
-                            </a>
+                            <div class="navbar-item">
+                                <a href="https://celyvelez.github.io/">
+                                    Home
+                                </a>
+                            </div>
+                            <div class="navbar-item">
+                                <a href="https://celyvelez.github.io/">
+                                    About
+                                </a>
+                            </div>
+                            <div class="navbar-item">
+                                <a href="https://celyvelez.github.io/lede">
+                                    Lede
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
