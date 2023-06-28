@@ -7,32 +7,57 @@
     <title>Sara Cely Vélez</title>
     <link rel="stylesheet" href="css/mystyles.css">
     <style>
-        .hero.is-primary {
+        .hero {
+            background-color: hsl(180, 69%, 40%);
+            color: white;
+        }
+        .hero .navbar-item:hover {
+            background-color: #134D4D;
+            color: white;
+        }
+        .hero h1 {
+            color: white;
+        }
+        .navbar {
             background-color: hsl(180, 69%, 40%);
         }
-        .container a:hover {
+        .navbar-item a {
+            color: white;
+        }
+        a {
+            color:#75D5D5;
+        }
+        a:hover {
             color: #134D4D;
         }
-        .container h1 {
+        h1 {
             color: #134D4D;
         }
         .container h2 {
             color:#269999;
         }
-        .container a {
+        .button {
+            border-color:#75D5D5;
             color:#75D5D5;
         }
-        /* .container .navbar-item:hover {
-            color: #134D4D;
-        } */
+        .button:hover {
+            border-color:#75D5D5;
+            background-color:#75D5D5;
+            color: white
+        }
+        .tags .tag {
+            background-color: #E2F6F6;
+            color:#269999;
+        }
+
 
     </style>
   </head>
   <body>
-    <section class="hero is-primary is-small">
+    <section class="hero is-small">
         <!-- Hero -->
         <div class="hero-head">
-            <nav class="navbar is-primary">
+            <nav class="navbar">
                 <div class="container">
                     <div class="navbar-brand">
                         <div class="navbar-item">
@@ -46,15 +71,21 @@
                     </div>
                     <div id="navbarMenuHeroA" class="navbar-menu">
                         <div class="navbar-end">
-                            <a class="navbar-item" href="https://celyvelez.github.io/">
-                                Homee
-                            </a>
-                            <a class="navbar-item" href="google.com">
-                            About Me
-                            </a>
-                            <a class="navbar-item" href="https://celyvelez.github.io/lede">
-                            Lede 2023
-                            </a>
+                            <div class="navbar-item">
+                                <a href="https://celyvelez.github.io/">
+                                    Homee
+                                </a>
+                            </div>
+                            <div class="navbar-item">
+                                <a href="https://celyvelez.github.io/">
+                                    About
+                                </a>
+                            </div>
+                            <div class="navbar-item">
+                                <a href="https://celyvelez.github.io/lede">
+                                    Lede
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -88,7 +119,7 @@
                         <h2 style="color:#269999;">01 | How social context makes a difference in women in maths</h2>
                         <p>We know women are underrepresented in STEM, but just by how much? Here's a closer look at the gender
                         distribution in the Mathematics Department at the University of the Andes in Bogotá, Colombia.</p>
-                        <p><a class="button is-primary is-outlined is-small" href="/lede-2023/project-01/" target="_blank">Read the story</a></p>
+                        <p><a class="button is-outlined is-small" href="/lede-2023/project-01/" target="_blank">Read the story</a></p>
                     </div>
                     <div class="column is-one-third">
                         <figure class="" image is-5by3>
@@ -97,9 +128,9 @@
                             alt="Placeholder image">
                         </figure>
                         <div class="tags is-centered">
-                        <span class="tag is-primary is-light">Dataset</span>
-                        <span class="tag is-primary is-light">Maths</span>
-                        <span class="tag is-primary is-light">Gender</span>
+                            <span class="tag">Dataset</span>
+                            <span class="tag">Maths</span>
+                            <span class="tag">Gender</span>
                         </div>
                     </div>
                     <!-- <div class="column is-one-third">
