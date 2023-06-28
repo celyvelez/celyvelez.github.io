@@ -4,11 +4,103 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>My custom Bulma website</title>
+    <title>Sara Cely Vélez</title>
     <link rel="stylesheet" href="css/mystyles.css">
+    <style>
+        .hero.is-primary {
+            background-color: hsl(180, 69%, 40%);
+        }
+        .container h1 {
+            color: #134D4D;
+        }
+        .container h2 {
+            color:#269999;
+        }
+        .container a {
+            color:#75D5D5;
+        }
+        /* .hero a {
+            $navbar-item-color:#75D5D5;
+            /* navbar-item-hover-background-color */
+        } */
+    </style>
   </head>
   <body>
-     <h1 class="title">
+    <section class="hero is-primary is-small">
+        <!-- Hero head: will stick at the top -->
+        <div class="hero-head">
+            <nav class="navbar is-primary">
+                <div class="container">
+                    <div class="navbar-brand">
+                    <a class="navbar-item">
+                        <img src="images/logo.png" alt="Logo">
+                    </a>
+                    <span class="navbar-burger" data-target="navbarMenuHeroA">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </span>
+                    </div>
+                    <div id="navbarMenuHeroA" class="navbar-menu">
+                    <div class="navbar-end">
+                        <a class="navbar-item" href="https://celyvelez.github.io/">
+                        Home
+                        </a>
+                        <a class="navbar-item" href="google.com">
+                        About Me
+                        </a>
+                        <a class="navbar-item" href="https://celyvelez.github.io/lede">
+                        Lede 2023
+                        </a>
+                    </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+      
+        <!-- Hero content: will be in the middle -->
+        <div class="hero-body">
+            <h1 class="title is-1">Hi, I'm Sara (:</h1>
+        </div>  
+      </section>
+      <div class="container">
+        <!-- <section class="section"> -->
+          <div class="columns content">
+            <div class="column is-one-fifth">
+              <div class="article-author-side is-centered">
+                <br>
+                <!-- <img src="images/bio-photo.jpg" alt="Sara Cely's bio photo"> -->
+                <figure class="image is-128x128">
+                    <img class="bio-photo is-rounded" src="images/bio-photo.jpg" alt="Sara Cely's bio photo">
+                </figure>
+                <br>
+                <h3 itemprop="name" style="color:#134D4D;">Sara Cely Vélez</h3>
+                <p><em>Journalist. In another universe I'm a mathematician.</em></p>
+              </div>
+            </div>
+            <div class="column is-four-fifths">
+                <br>
+                <h1 >Welcome to my website!</h1>
+
+                <p>This is the home of all the projects, articles, videos, podcasts, etc. that make me who I am as a professional -but still look out for some personal easter eggs-. </p>
+                <p>In a nutshell: I'm a mathematician turned journalist who wishes to become a polymath.</p>
+                <p>Thanks for stopping by! </p>
+                
+                <h2>Current interests and projects:</h2>
+                
+                <p>
+                  <ul>
+                    <li>Attending Lede 2023 at Columbia University</li>
+                    <li>Fact-checking a book</li>
+                    <li>Building my <a href="https://www.mathgenealogy.org/index.php" target="_blank">Mathematics Genealogy</a></li>
+                    <!-- <li>Lorem ipsum dolor sit amet</li> -->
+                  </ul>
+                </p>
+            </div>  
+          </div>
+        <!-- </section> -->
+      </div>
+     <!-- <h1 class="title">
         Bulma
       </h1>
 
@@ -35,6 +127,6 @@
       <div class="buttons">
         <a class="button is-primary">Primary</a>
         <a class="button is-link">Link</a>
-      </div>
+      </div> -->
   </body>
 </html>
