@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Sara Cely Vélez</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" href="css/mystyles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <style>
         .hero {
             background-color: hsl(180, 69%, 40%);
@@ -30,7 +32,7 @@
         a:hover {
             color: #134D4D;
         }
-        h1 {
+        .container h1 {
             color: #134D4D;
         }
         .container h2 {
@@ -49,7 +51,65 @@
             background-color: #E2F6F6;
             color:#269999;
         }
+        .footer-basic {
+            padding: 40px 0;
+            background-color: #ffffff;
+            color: #688D8D;
+        }
 
+        .footer-basic ul {
+            padding: 0;
+            list-style: none;
+            text-align: center;
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 0;
+        }
+
+        .footer-basic li {
+            padding: 0 10px;
+        }
+
+        .footer-basic ul a {
+            color: inherit;
+            text-decoration: none;
+            opacity: 0.8;
+        }
+
+        .footer-basic ul a:hover {
+            opacity: 1;
+        }
+
+        .footer-basic .social {
+            text-align: center;
+            padding-bottom: 20px;
+        }
+
+        .footer-basic .social>a {
+            font-size: 24px;
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            display: inline-block;
+            text-align: center;
+            border-radius: 50%;
+            border: 1px solid #ccc;
+            margin: 0 8px;
+            color: inherit;
+            opacity: 0.75;
+        }
+
+        .footer-basic .social>a:hover {
+            opacity: 0.9;
+        }
+
+        .footer-basic .copyright {
+            margin: top 10px;
+            text-align: center;
+            font-size: 13px;
+            color: #aaa;
+            margin: bottom 0px;
+        }
     </style>
   </head>
   <body>
@@ -76,7 +136,7 @@
                                 </a>
                             </div>
                             <div class="navbar-item">
-                                <a href="https://celyvelez.github.io/">
+                                <a href="https://celyvelez.github.io/about">
                                     About
                                 </a>
                             </div>
@@ -111,7 +171,7 @@
                 <p><em>Journalist. In another universe I'm a mathematician.</em></p>
               </div>
             </div>
-            <div class="column is-four-fifths">
+            <div class="column is-three-fifths">
                 <br>
                 <h1 >Welcome to my website!</h1>
 
@@ -133,33 +193,22 @@
           </div>
         <!-- </section> -->
       </div>
-     <!-- <h1 class="title">
-        Bulma
-      </h1>
+      <div class="footer-basic">
 
-      <p class="subtitle">
-        Modern CSS framework based on <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox">Flexbox</a>
-      </p>
+        <footer>
+          <div class="social">
+            <a href="https://twitter.com/celyvelez" target="_blank">
+              <i class="icon ion-social-twitter">
+              </i>
+            </a>
+            <a href="https://github.com/celyvelez" target="_blank">
+              <i class="icon ion-social-github">
+              </i>
+            </a>
+          </div>
+          <p class="copyright">Sara Cely Vélez © 2023</p>
+        </footer>
 
-      <div class="field">
-        <div class="control">
-          <input class="input" type="text" placeholder="Input">
-        </div>
       </div>
-
-      <div class="field">
-        <p class="control">
-          <span class="select">
-            <select>
-              <option>Select dropdown</option>
-            </select>
-          </span>
-        </p>
-      </div>
-
-      <div class="buttons">
-        <a class="button is-primary">Primary</a>
-        <a class="button is-link">Link</a>
-      </div> -->
   </body>
 </html>
