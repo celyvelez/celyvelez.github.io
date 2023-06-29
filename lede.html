@@ -5,7 +5,9 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Sara Cely Vélez</title>
+    <link rel="icon" type="image/x-icon" href="images/favicon.png">
     <link rel="stylesheet" href="css/mystyles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
     <style>
         .hero {
             background-color: hsl(180, 69%, 40%);
@@ -30,7 +32,7 @@
         a:hover {
             color: #134D4D;
         }
-        h1 {
+        .container h1 {
             color: #134D4D;
         }
         .container h2 {
@@ -49,7 +51,65 @@
             background-color: #E2F6F6;
             color:#269999;
         }
+        .footer-basic {
+            padding: 40px 0;
+            background-color: #ffffff;
+            color: #688D8D;
+        }
 
+        .footer-basic ul {
+            padding: 0;
+            list-style: none;
+            text-align: center;
+            font-size: 18px;
+            line-height: 1.6;
+            margin-bottom: 0;
+        }
+
+        .footer-basic li {
+            padding: 0 10px;
+        }
+
+        .footer-basic ul a {
+            color: inherit;
+            text-decoration: none;
+            opacity: 0.8;
+        }
+
+        .footer-basic ul a:hover {
+            opacity: 1;
+        }
+
+        .footer-basic .social {
+            text-align: center;
+            padding-bottom: 20px;
+        }
+
+        .footer-basic .social>a {
+            font-size: 24px;
+            width: 40px;
+            height: 40px;
+            line-height: 40px;
+            display: inline-block;
+            text-align: center;
+            border-radius: 50%;
+            border: 1px solid #ccc;
+            margin: 0 8px;
+            color: inherit;
+            opacity: 0.75;
+        }
+
+        .footer-basic .social>a:hover {
+            opacity: 0.9;
+        }
+
+        .footer-basic .copyright {
+            margin: top 10px;
+            text-align: center;
+            font-size: 13px;
+            color: #aaa;
+            margin: bottom 0px;
+        }
 
     </style>
   </head>
@@ -73,11 +133,11 @@
                         <div class="navbar-end">
                             <div class="navbar-item">
                                 <a href="https://celyvelez.github.io/">
-                                    Homee
+                                    Home
                                 </a>
                             </div>
                             <div class="navbar-item">
-                                <a href="https://celyvelez.github.io/">
+                                <a href="https://celyvelez.github.io/about">
                                     About
                                 </a>
                             </div>
@@ -113,7 +173,7 @@
             <!-- Content -->
             <div class="column is-four-fifths">
                 <br>
-                <h1 style="color:#134D4D;">Projects</h1>
+                <h1>Projects</h1>
                 <div class="columns is-multiline content">
                     <div class="column is-two-thirds">
                         <h2 style="color:#269999;">01 | How social context makes a difference in women in maths</h2>
@@ -143,6 +203,23 @@
                 </div>
             </div>  
           </div>
+      </div>
+      <div class="footer-basic">
+
+        <footer>
+          <div class="social">
+            <a href="https://twitter.com/celyvelez" target="_blank">
+              <i class="icon ion-social-twitter">
+              </i>
+            </a>
+            <a href="https://github.com/celyvelez" target="_blank">
+              <i class="icon ion-social-github">
+              </i>
+            </a>
+          </div>
+          <p class="copyright">Sara Cely Vélez © 2023</p>
+        </footer>
+
       </div>
   </body>
 </html>
