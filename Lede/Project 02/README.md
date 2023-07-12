@@ -28,10 +28,10 @@ The analysis of categories and statuses was done with pandas and Google Sheets. 
 ### Charts
 The charts were done with Plot and d3 in Observable, with RAWGraphs and Datawrapper. All of them were modified using Illustrator to match the style of my website. 
 
-### Skills learned: 
+### Skills learned 
 I learned a little about machine learning and NLP. I also polished my skills in Observable and Illustrator.
 
-### Further questions:
+### Further questions
 If I were to continue with this project, I would like to find the answer to the following questions:
 - When are the most bills proposed?
 - Are the bills sanctioned being proposed by the Senators or the Government?
