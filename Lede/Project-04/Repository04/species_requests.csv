@@ -1,0 +1,875 @@
+species,requests
+vertebrado,343
+invertebrado,31
+amazona ochrocephala,18
+brotogeris jugularis,15
+sicalis flaveola,10
+perifiton,10
+carollia brevicauda,9
+thraupis episcopus,6
+sporophila nigricollis,6
+coeligena torquata,6
+amazilia tzacatl,6
+coereba flaveola,6
+dendrobates truncatus,6
+sporophila minuta,6
+artibeus lituratus,6
+turdus ignobilis,6
+muestreo vegetal,6
+carollia perspicillata,6
+desmodus rotundus,5
+zenaida auriculata,5
+heliangelus exortis,5
+fitoplancton,5
+iguana iguana,5
+macroinvertebrado,5
+volatinia jacarina,5
+zooplancton,5
+chelonoidis carbonaria,4
+elaenia flavogaster,4
+pristimantis w,4
+tangara vitriolina,4
+zonotrichia capensis,4
+pitangus sulphuratus,4
+nigrum,4
+artibeus planirostris,4
+tyrannus melancholicus,4
+myioborus ornatus,4
+icterus chrysater,4
+turdus fuscater,4
+thraupis palmarum,4
+thamnophilus doliatus,4
+aves,4
+columbina talpacoti,4
+bentos,3
+rhinella marina,3
+catharus ustulatus,3
+schistochlamys melanopis,3
+galbula ruficauda,3
+pristimantis dorsopictus,3
+dasyprocta punctata,3
+mus domesticus,3
+polioptila plumbea,3
+engystomops pustulosus,3
+peces,3
+tangara cyanicollis,3
+pyrocephalus rubinus,3
+glossophaga soricina,3
+boana xerophylla,3
+coragyps atratus,3
+anfibios,3
+holcosus festivus,3
+pristimantis sp,3
+mamiferos,3
+reptiles,3
+zimmerius chrysops,3
+arremon aurantiirostris,3
+ramphocelus dimidiatus,3
+ortalis columbiana,3
+gonatodes albogularis,3
+momotus subrufescens,3
+heliomaster longirostris,3
+tolmomyias sulphurescens,3
+leptodactylus fragilis,3
+scinax ruber,3
+euphonia laniirostris,3
+troglodytes aedon,3
+chaetostoma fischeri,3
+stenocercus trachycephalus,3
+amazona amazonica,3
+myiothlypis coronata,3
+rhinella horribilis,3
+leptodeira annulata,2
+leptodactylus insularum,2
+myiozetetes cayanensis,2
+claravis pretiosa,2
+pionus chalcopterus,2
+myiopagis viridicata,2
+megarynchus pitangua,2
+thamnophilus atrinucha,2
+cnemidophorus lemniscatus,2
+dasypus novemcinctus,2
+falco sparverius,2
+trichomycterus banneaui,2
+tantilla melanocephala,2
+phimosus infuscatus,2
+lasiancistrus caucanus,2
+synbranchus marmoratus,2
+crotophaga ani,2
+pseudoboa neuwiedii,2
+panyapedaliodes drymaea,2
+micrurus mipartitus,2
+sibon nebulatus,2
+oxyrhopus petolarius,2
+andinoacara latifrons,2
+sylvilagus brasiliensis,2
+tiaris olivaceus,2
+anolis auratus,2
+todirostrum cinereum,2
+notosciurus granatensis,2
+coryphospingus pileatus,2
+rhinella humboldti,2
+leptodactylus fuscus,2
+leptotila plumbeiceps,2
+diglossa sittoides,2
+melanerpes rubricapillus,2
+veniliornis kirkii,2
+chironius carinatus,2
+dendrophidion bivittatus,2
+drymarchon melanurus,2
+basiliscus galeritus,2
+leptodeira septentrionalis,2
+dendrocincla tyrannina,2
+phimophis guianensis,2
+hemidactylus frenatus,2
+thecadactylus rapicauda,2
+lepidoblepharis duolepis,2
+lepidoblepharis xanthostigma,2
+chalybura buffonii,2
+basileuterus rufifrons,2
+ardea alba,2
+geophagus steindachneri,2
+sturnira giannae,2
+argopleura magdalenensis,2
+pristimantis gaigei,2
+eubucco bourcierii,2
+platyrrhinus helleri,2
+dendrocygna autumnalis,2
+sturnira ludovici,2
+psittacara wagleri,2
+manacus manacus,2
+dryocopus lineatus,2
+myioborus miniatus,2
+artibeus phaeotis,2
+platyrrhinus nigellus,2
+turdus leucomelas,2
+dendropsophus columbianus,2
+molothrus bonariensis,2
+anoura geoffroyi,2
+sturnira erythromos,2
+hyalinobatrachium fleischmanni,2
+trichoptera,2
+melanerpes formicivorus,2
+megascops choliba,2
+artibeus anderseni,2
+sturnira sp.,2
+campylorhynchus griseus,2
+didelphis marsupialis,2
+rheobates palmatus,2
+aulacorhynchus prasinus,2
+kinosternon leucostomum,2
+artibeus jamaicensis,2
+uroderma bilobatum,2
+ara ararauna,2
+forpus conspicillatus,2
+ara severus,2
+mimus gilvus,2
+pionus menstruus,2
+piaya cayana,2
+enémonas,2
+adelomyia melanogenys,2
+chamaepetes goudotii,2
+chironius monticola,2
+moluscos,2
+serpophaga cinerea,2
+poliquetos,2
+algas,2
+turdus serranus,2
+saltator striatipectus,2
+rupornis magnirostris,2
+esponjas,2
+otros invertebrado,2
+mus musculus,2
+rattus rattus,2
+eupsitulla pertinax,2
+troglodytes solstitialis,2
+spilotes pullatus,2
+cerdocyon thous,2
+crsutaceos,2
+streptoprocne zonaris,2
+euptychoides griphe,2
+pedaliodes manis,2
+vanessa virginiensis,2
+epipedobates boulengeri,2
+bubulcus ibis,2
+barysomus,2
+sciurus granatensis,2
+centrolene savagei,2
+colonia de pocillopora spp,2
+arotrhron meleagris,2
+stelgidopteryx ruficollis,2
+pseudobalistes naufragium,2
+sufflamen verres,2
+cathartes aura,2
+diglossa cyanea,2
+calosoma,2
+ochthoeca cinnamomeiventris,2
+myiothlypis fulvicauda,2
+anthracothorax nigricollis,2
+leptotes cassius,2
+anisognathus lacrymosus,2
+amazona ochropcephala,2
+pedaliodes poesia,2
+dione moneta butleri,2
+leptotila verreauxi,2
+pristimantis achatinus,2
+colias dimera,2
+chlorophanes spiza,2
+synallaxis brachyura,2
+atlapetes schistaceus,2
+phyllomyias nigrocapillus,2
+synallaxis azarae,2
+ochthoeca fumicolor,2
+thraupis cyanocephala,2
+spinus psaltria,2
+ampelion rubrocristatus,1
+anadia cf. ocellata,1
+andigena hypoglauca,1
+anisognathus igniventris,1
+anisognathus somptuosus,1
+ameiva ameiva,1
+amblycercus holosericeus,1
+emberizoides herbicola,1
+anolis antonii,1
+amazilia saucerottei,1
+leptodeira sp,1
+dubusia taeniata,1
+macrofitas acuáticas,1
+diglossa humeralis,1
+anolis fuscoauratus,1
+anolis heterodermus,1
+anolis tolimensis,1
+anoura caudifer,1
+aotus lemurinus,1
+aramides cajaneus,1
+aramus guarauna,1
+amazona mercenarius,1
+atta sp,1
+akodon afinnis,1
+thamnophilus punctatus,1
+elanus leucurus,1
+elaenia frantzii,1
+eira barbara,1
+phaethornis yaruqui,1
+enchisthenes hartii,1
+epinecrophylla fulviventris,1
+eptesicus chiriquinus,1
+eriocnemis vestita,1
+erythrolamprus epinephelus,1
+thamnophilidae,1
+cyanerpes cyanea,1
+aglaiocercus kingii,1
+thraupidae,1
+gonatodes sp,1
+caiman crocodilus,1
+trochilidae sp,1
+bradypus variegatus,1
+muestra de tejido bucal de oophaga lehmanni,1
+accipiter striatus,1
+euphonia cyanocephala,1
+falco columbarius,1
+actitis macularius,1
+craugastor metriocistus,1
+boa constrictor,1
+ardea cocoi,1
+choloepus hoffmanni,1
+dacnis cayana,1
+cnemotricus fuscatus,1
+dacnis hartlaubi,1
+chrysomus icterocephalus,1
+dacnis lineata,1
+dasyprocta fuliginosa,1
+choeroniscus godmani,1
+arremon assimilis,1
+chlorospingus flavopectus,1
+dendrocincla fuliginosa,1
+chlorospingus canigularis,1
+chlorornis riefferii,1
+chlorophonia pyrrhophrys,1
+chloroceryle americana,1
+cyanocorax yncas,1
+cyanocorax affinis,1
+crypturellus soui,1
+cryptotis thomasi,1
+cryptorellus obsoletus,1
+coeligena bonapartei,1
+coeligena coeligena,1
+crotalus durissus,1
+colaptes punctigula,1
+colaptes rivolii,1
+colaptes rubiginosus,1
+colibri coruscans,1
+colibri thalassinus,1
+colinus cristatus,1
+columbina passerina,1
+florisuga mellivora,1
+conirostrum rufum,1
+chiroxiphia lanceolata,1
+dendroplex picus,1
+cercosaura argulus,1
+bolitoglossa sp.,1
+arremon atricapillus,1
+arremon brunneinucha,1
+artibeus cf. jamaicensis,1
+diglossa caerulescens,1
+atlapetes albinucha,1
+atlapetes albofrenatus,1
+diglossa albilatera,1
+atlapetes flaviceps,1
+atractus crassicaudatus,1
+atractus sp.,1
+didelphis pernigra,1
+basileuterus culicivorus,1
+contopus fumigatus,1
+boana pugnax,1
+bolitoglossa vallecula,1
+catamenia inornata,1
+bothrops asper,1
+buteo brachyurus,1
+buteo nitidus,1
+buthraupis montana,1
+butorides striata,1
+cacicus chrysonotus,1
+dermanura cf. phaeotis,1
+calyromys lanatus,1
+dermanura cf. bogotensis,1
+campephilus pollens,1
+capsiempis flaveola,1
+caracara cheriway,1
+dendropsophus molitor,1
+dendropsophus microcephalus,1
+panthiades bitias,1
+leucostethus fraterdanieli,1
+fluvicola pica,1
+synallaxis unirufa,1
+sturnella magna,1
+sturnella militaris,1
+sturnira bidens,1
+sturnira cf. bogotensis,1
+sturnira cf. ludovici,1
+sylvilagus apollinaris,1
+sylvilagus sp,1
+synallaxis albescens,1
+synallaxis subpudica,1
+tamandua mexicana,1
+stilpnia heinei,1
+tangara cyanocephala,1
+tangara gyrola,1
+tangara labradorides,1
+tangara vassorii,1
+tangara xanthocephala,1
+tapera naevia,1
+tetriocinchus bifasciatus,1
+thamnophilus multistriatus,1
+thlypopsis superciliaris,1
+stilpnia vitriolina,1
+stilpnia cyanicollis,1
+trogon personatus,1
+sayornis nigricans,1
+pristimantis uisae,1
+pristimantis uranobates,1
+procyon cancrivorus,1
+psaracolius angustifrons,1
+pseudocolaptes boissonneautii,1
+pterophanes cyanopterus,1
+ptychoglossus bicolor,1
+pygochelidon cyanoleuca,1
+pyrrhomyias cinnamomeus,1
+sciurus granantensis,1
+stenorrhina degenhardtii,1
+scytalopus atratus,1
+scytalopus canus,1
+sicalis luteola,1
+silvilagus brasiliensis,1
+spinus xanthogastrus,1
+sporophila crassirostris,1
+sporophila funerea,1
+sporophila intermedia,1
+steatornis caripensis,1
+tiaris bicolor,1
+tyrannus savana,1
+pristimantis sp. 2,1
+trichomycterus caliensis,1
+tachyphonus rufus,1
+tángara labradorides,1
+tángara cyanicollis,1
+tángara larvata,1
+tángara vitriolina,1
+tiaris obscura,1
+astroblepus sp.,1
+brycon henni,1
+hemibrycon cf. rafaelense,1
+cebus capucinus,1
+ramphocelus flammigerus,1
+trachemys scripta,1
+xenopus laevis,1
+caiman crocodilus fuscus,1
+phoenicopterus ruber,1
+amazon sp,1
+exitianus atratus,1
+dalbulus sp.,1
+haldorus sp.,1
+cicadellidae sp.,1
+sporophila luctuosa,1
+pristimantis palmeri,1
+tyto alba,1
+anolis ventrimaculatus,1
+uropsalis segmentata,1
+vampyressa thyone,1
+vanellus chilensis,1
+vireo leucophrys,1
+volatina jacarina,1
+xenops rutilans,1
+xiphorhynchus susurrans,1
+xiphorhynchus triangularis,1
+amazilia saucerrottei,1
+anthracothorax prevostii,1
+pitangus sulfuratus,1
+atractus sp,1
+aulacorhynchus haematopygus,1
+botriechis schlegelii,1
+carollia castanea,1
+elaenia chiriquensis,1
+oxyrophus petolarius,1
+phaethornis guy,1
+phyllomyias griseiceps,1
+pipraeidea melanonota,1
+pristimantis thectopternus,1
+pristimantis sp. 1,1
+formicivora grisea,1
+lithobates catesbeianus,1
+jacana jacana,1
+lepidobepharis duolepis,1
+lepidoblepharis sp,1
+lepidocolaptes lacrymger,1
+lepidocolaptes souleyetii,1
+leptodactylus cf. savagei,1
+leptopogon superciliaris,1
+lesbia nuna,1
+algas sedimento,1
+lonchura malacca,1
+imantodes cenchoa,1
+malacoptila mystacalis,1
+marisora falconensis,1
+marmosa robinsoni,1
+marmosops caucae,1
+marmosops m.parvidens,1
+mastigodryas danieli,1
+mazama rufina,1
+mecocerculus leucophris,1
+megaceryle torquata,1
+islerothraupis luctuosa,1
+icterus nigrogularis,1
+microcerculus marginatus,1
+gralaria ruficapila,1
+fulica americana,1
+gallinula galeata,1
+gampsonyx swainsonii,1
+gardnerycteris crenulatum,1
+geotrygon montana,1
+geranoaetus melanoleucus,1
+geranoetus polyosoma,1
+geranospiza caerulescens,1
+glaucis hirsutus,1
+grallaria milleri,1
+hylophilus flavipes,1
+haplophaedia aureliae,1
+hemispingus frontalis,1
+hemithraupis guira,1
+henicorhina leucophrys,1
+henicorhina leucosticta,1
+herpetotheres cachinnans,1
+histiotus montanus,1
+hydrochoerus isthmius,1
+hydropsalis longirostris,1
+metallura tyrianthina,1
+microryzomys sp,1
+pristimantis sp.,1
+pholidobolus vertebralis,1
+oxybelis aeneus,1
+pachyramphus polychopterus,1
+pachyramphus rufus,1
+pachysylvia semibrunnea,1
+pandion haliaetus,1
+patagioenas fasciata,1
+penelope montagnii,1
+phalacrocorax brasilianus,1
+pheugopedius mystacalis,1
+phrygilus unicolor,1
+ocreatus underwoodii,1
+piranga rubra,1
+platyrrhinus dorsalis,1
+podilymbus podiceps,1
+poecilotriccus sylvia,1
+polychrus gutturosus,1
+porphyrio martinica,1
+potos flavus,1
+pristimantis bogotensis,1
+pristimantis permixtus,1
+orochelidon murina,1
+ochthoeca rufipectoralis,1
+milvago chimachima,1
+myiothlypis nigrocristata,1
+mionectes oleagineus,1
+molossus molossus,1
+molothrus oryzivorus,1
+momotus aequatorialis,1
+myiarchus cephalotes,1
+myiobius villosus,1
+myiodynastes chrysocephalus,1
+myiodynastes maculatus,1
+myiotheretes striaticollis,1
+myotis caucensis,1
+nymphargus grandisonae,1
+myotis cf. riparius,1
+myotis keaysi,1
+nasua nasua,1
+nasuella olivacea,1
+nephelomys childi,1
+nephelomys sp,1
+nyctibius griseus,1
+nycticorax nycticorax,1
+nyctidromus albicollis,1
+macroinnvertebrado,1
+submareales,1
+muestras de perifitón,1
+melanomys caliginosus,1
+geothlypis philadelphia,1
+margarornis squamiger,1
+myiarchus tuberculifer,1
+scytalopus unicolor,1
+setophaga petechia,1
+anoura cultrata,1
+eptesicus brasiliensis,1
+lonchophylla robusta,1
+mesophylla macconnelli,1
+trichomycterus sp.,1
+saccopteryx bilineata,1
+micronycteris sp.,1
+sigmodon hispidus,1
+cercomacra nigricans,1
+oligoryzomys sp.,1
+hoplias malabaricus,1
+imparfinis nemacheir,1
+megaleporinus muyscorum,1
+elaenia parvirostris,1
+chlorostilbon gibsoni,1
+amazilia franciae,1
+systellura longirostris,1
+altinote neleus,1
+brachygastra sp,1
+melanis electron,1
+callicore pitheas,1
+hypanthidium magdalenae,1
+melitoma segmentaria,1
+augoclorella sp,1
+hamadryas amphinome,1
+pyrisitia venusta,1
+phoebis sennae marcellina,1
+athrostictus,1
+clivina,1
+neodryta,1
+mecocerculus poecilocercus,1
+metallura williami,1
+anabacerthia striaticollis,1
+machetornis rixosa,1
+roeboides dayi,1
+stenolopus,1
+selenophorus,1
+tetragona sp,1
+pheugopedius fasciatoventris,1
+thalurania colombica,1
+neacomys tenuipes,1
+chalybura buffoni,1
+phaethornis anthophilus,1
+cetopsorhamdia nasus,1
+pimelodus grosskopfii,1
+sternopygus aequilabiatus,1
+hamadryas februa ferentina,1
+anolis frenatus,1
+trigona sp,1
+mestra hersilia semifulva,1
+espadarana prosoblepon,1
+pristimantis peraticus,1
+atractus obtusirostris,1
+rhinella granulosa,1
+tetragonoderus,1
+frieseomelitta nigra,1
+lophotriccus pileatus,1
+vireo olivaceus,1
+doryfera ludovicae,1
+setophaga fusca,1
+dendropsophus bokermanni,1
+leptodactylus colombiensis,1
+leptodactylus sp,1
+scinax rostratus,1
+gastrotheca nicefori,1
+drymarchon corais,1
+synophis lasallei,1
+cercosaura argula,1
+anartia jatrophae,1
+anartia amathea,1
+macroinvertebrado acuaticos,1
+carabidae,1
+galerita,1
+polistes sp,1
+anoura sp.,1
+micronycteris sp,1
+myiothlypis luteoviridis,1
+stolinis,1
+paratachys,1
+clivini,1
+melete lycimnia,1
+nannotrigona sp,1
+oxytrigona sp,1
+melipona favosa,1
+eufriesea sp,1
+heliconius herato,1
+dynamine agacles core,1
+tithorea harmonia furina,1
+notheme erota diadema,1
+pyrisitia sp,1
+aspidoglossa,1
+junonia evarete,1
+euptoeieta hegesia,1
+staphylus sp,1
+hamadryas feronia,1
+thereus ortalus,1
+calycopis isobeon,1
+hemiargus hanno,1
+myscelus amystis,1
+tetragonisca sp,1
+frieseomelitta sp,1
+scaptotrigona barrocoloradensis,1
+hemipepsis sp,1
+altinote dicaeus,1
+catasticta tomyris tomyris,1
+corades medeba columbina,1
+eretris porphyria,1
+hesperi sp.,1
+noctuana haematospila,1
+perisama blomplandii,1
+pronophila epidipnis orchewitsoni,1
+theritas monica,1
+urbanus teleus,1
+urbanus viterboana,1
+paratrigona sp,1
+bombus sp,1
+agapostemon sp,1
+temnosoma sp,1
+pepsis grossa,1
+exaerete smaradigna,1
+pseudolycaena marsyas,1
+rekoa meton,1
+strymon istapa,1
+exaerete sp,1
+caenaugochlora sp,1
+polistes carnifex,1
+ancyloscelis sp1,1
+dynamine postverta,1
+ascia monuste,1
+danaus gilippus,1
+nica flavilla,1
+hesperiidae sp,1
+cryptobatis,1
+polybia sp,1
+plebeia sp,1
+tetragonisca angustula,1
+centris sp1,1
+eurema elathea,1
+temenis laothoe,1
+pyrgus orcus,1
+anaulacus,1
+geotrigona sp,1
+cephalotrigona zexmeniae,1
+zaretis ellops,1
+halictus sp,1
+panthiades phaleros,1
+lycorea halia,1
+pyrrhogyra neaerea,1
+itaballia demophile,1
+phoebis argante larra,1
+eurema daira lydia,1
+camptodontus,1
+loxandrini,1
+notiobia,1
+pelecidium,1
+pelecium,1
+stenomorphus,1
+trichopselapus,1
+altinote stratonice,1
+lymanopoda albocinta albocinta,1
+pedaliodes peucesta peucesta,1
+trigona fulviventris,1
+apenes,1
+oxytrigona daemoniaca,1
+parkesia novaboracensis,1
+de abejas meliponini,1
+04 especímenes por morfoespecie de insectos,1
+40 especímenes por especie por área protegida,1
+colecta de insectos adultos,1
+obtención de extendidos sanguíneos de aves,1
+colecta de especímenes de turdus fuscater,1
+manipulación de murciélagos capturados en redes de niebla. captura de 15 individuos de saccopteryx aff.,1
+manipulación de especímenes de 32 especies de anolis,1
+muestras de piel de ballena jorobada,1
+euglossini,1
+haemulon tlaviguttatum,1
+bombini,1
+zooplacton,1
+mamiferos terrestres,1
+rhinoclemmys nasuta,1
+haemulopsis leuciscu,1
+haemulopsis axillaris,1
+pomadasys macracantu,1
+pomadasys panamensis,1
+colostethus alacris,1
+monitoreo de ictiofauna,1
+15 cascaras por especie,1
+se colectaran 2 nidos,1
+polillas,1
+lepidóptera,1
+díptera,1
+especies de ecositemas rocosos intermareales,1
+actinote anteas,1
+tractus crassicaudatus,1
+anadia bogotensis,1
+pierna strmta.,1
+hydrometridae,1
+brycon oligolepis,1
+rhamdia quelen,1
+ciclassoma omatum,1
+insectos,1
+herpetos,1
+fito zooplancton,1
+macrofitas,1
+colecta de fragmentos de pocillopora,1
+haemulon maculicauda,1
+anisotremus taeniatus,1
+myotis riparius,1
+varias especies de coral 9 muestras por especie,1
+silverstoneia sp,1
+ptychoglossus sp,1
+sphaerodactylus sp,1
+bolitoglossa sp,1
+apidae,1
+diptera,1
+orbicella faveolata,1
+siderastrea siderea,1
+psocidia,1
+anisotremus interruptus,1
+lachesillidae,1
+psocoptera fam : ptiloneuridae,1
+epipsocidae,1
+cladipsocidae,1
+dolabellospsocidae,1
+artropodos,1
+muestreo de suelos,1
+protonotaria citrea,1
+holcosus bridgesii,1
+atelopus elegans,1
+caranx caninus,1
+lutjanus guttatus,1
+echinometra lucunter lucunter,1
+anolis,1
+quiropteros,1
+"trichomycterus gorgona,",1
+characidae sp.,1
+gobiomorus maculatus,1
+hemieleotris latifasciata,1
+sicydium,1
+hildebrandi,1
+agonostomus monticola,1
+gobiesox sp,1
+vertemidos,1
+oophaga lehmanni,1
+poriferos,1
+macroalgas,1
+muestra visceral,1
+scomberomorus sierra,1
+d. guildingii,1
+p. hermes,1
+pyraloidea,1
+dendrophidion truncatus,1
+hemibrycon sp.,1
+parodon magdalenensis,1
+phaetornis anthophilus,1
+buteogallus meridionalis,1
+neacomys magdalenge,1
+rhinella margaritifera,1
+rulyrana susatamai,1
+bolitoglossa ramosi,1
+apis mellifera,1
+lepidópteros microlepidoptera,1
+pristimantis aff. uranobates,1
+sachatamia punctulata,1
+pristimantis sp1,1
+anolis cf. tolimensis,1
+craugastor metriosistus,1
+lithobates vaillanti,1
+pristimantis piceus,1
+pimelodella chagresi,1
+anolis huilae,1
+cardinalis cardinalis,1
+uroderma convexum,1
+tetracha cribata,1
+anoura,1
+rattus norvegicus,1
+astyanax magdalenae,1
+cynodonichthys magdalenae,1
+enceladus gigas,1
+boana boans,1
+colostethus aff. fraterdanieli,1
+colostethus fraterdanieli,1
+osornophryne percrassa,1
+pristimantis taeniatus,1
+platyrrhinus lineatus,1
+pristimantis sp2,1
+gephyrocharax melanocheir,1
+hypostomus hondae,1
+pimelodus blochii,1
+rhamdia guatemalensis,1
+sturisomatichthys leightoni,1
+poecilia caucana,1
+chaetostoma milesi,1
+tetracha affinis,1
+melanospiza bicolor,1
+myotis nigricans,1
+holcosus ameiva,1
+basiliscus basiliscus,1
+dendropsophus microcephalus,1
+hypsiboas crepitans,1
+trachycephalus typhonius,1
+mamíferos,1
+mamíferos e invertebrado,1
+carcharhinidae,1
+balenopteridae,1
+cheloniidae,1
+peces de columna de agua,1
+p. damicornis,1
+p. capitata,1
+p. eydouxi,1
+odonatos,1
+dípteros no hematófagos,1
+sturnira lilium,1
+tachyphonus luctuosus,1
+hyloxalus vergeli,1
+creagrutus affinis,1
+astyanax fasciatus,1
+hyloxalus sp.,1
+gubernatrix cristata,1
+creagrutus sp.,1
+poecilia reticulata,1
+tachycineta albiventer,1
+calosoma alternans,1
+streptopelia decaocto,1
+serinus canaria,1
+molossops temminckii,1
+phyllostomus hastatus,1
+ara chloropterus,1
+cebus albifrons,1
+myiozetetes similis,1
+xenopipo atronitens,1
+micronycteris,1
+andinobates dorisswansonae,1
+riama sp.,1
